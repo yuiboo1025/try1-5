@@ -24,16 +24,10 @@ header{
   margin:0 20px;
 }
 
-main{
-  justify-content: center;
-  align-items: center;
-  display:flex;
-}
-
 .main-contents{
-  flex-wrap: wrap;
   display:flex;
-  padding:50px 0;
+  flex-wrap: wrap;
+  margin:50px auto;
   width:800px;
 }
 
